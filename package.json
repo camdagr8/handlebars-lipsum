@@ -1,5 +1,5 @@
 {
-  "name": "handlebars-latin",
+  "name": "handlebars-lipsum",
   "version": "1.0.4",
   "description": "Handlebars helper that returns a substring of characters from lorem ipsum latin text.",
   "main": "index.js",
