@@ -1,6 +1,6 @@
 {
   "name": "handlebars-latin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Handlebars helper that returns a substring of characters of lorem ipsum latin text.",
   "main": "index.js",
   "scripts": {
