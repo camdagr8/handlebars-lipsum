@@ -3,7 +3,7 @@
  * @param from {Number} The start index.
  * @param to {Number} The end index.
  */
-var latin = require('./latin.json');
+var latin = require('./lipsum.json');
 
 module.exports = function(from, to) {
 	var output = latin.text;
