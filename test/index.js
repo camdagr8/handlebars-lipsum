@@ -13,3 +13,11 @@ describe('#lipsum(25, 50)', function() {
 	lipsum(25, 50).should.equal('Odio eget dignissim velit auctor at Nullam efficit');
   });
 });
+
+
+describe('#lipsum(random, 50)', function () {
+  var cont = lipsum('random', 50);
+  it('Chars random-50: '+cont, function() {
+	return cont;
+  });
+});

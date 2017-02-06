@@ -6,9 +6,13 @@ Handlebars helper that returns a substring of characters of lorem ipsum latin te
 {{lipsum 0 300}}
 ```
 
+```javascript
+{{lipsum random 300}}
+```
+
 ## Parameters
 
-| Argument	| Type 		| Description								|
-|:----------|:----------|:------------------------------------------|
-| from		| Number 	| The starting index.						|
-| to 		| Number 	| The ending index.							|
+| Argument	| Type 				| Description																						|
+|:----------|:------------------|:--------------------------------------------------------------------------------------------------|
+| from		| Number|String 	| The starting index. If the value is 'random' a random index will be selected						|
+| to 		| Number 			| The ending index.																					|
