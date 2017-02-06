@@ -1,0 +1,28 @@
+{
+  "name": "handlebars-latin",
+  "version": "1.0.2",
+  "description": "Handlebars helper that returns a substring of characters of lorem ipsum latin text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camdagr8/handlebars-lipsum.git"
+  },
+  "keywords": [
+    "handlebars",
+    "latin",
+    "helper"
+  ],
+  "author": "Cam Tullos <cam@tullos.ninja> (http://cam.tullos.ninja)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/camdagr8/handlebars-lipsum/issues"
+  },
+  "homepage": "https://github.com/camdagr8/handlebars-lipsum#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
