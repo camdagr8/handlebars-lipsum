@@ -7,7 +7,7 @@ Handlebars helper that returns a substring of characters of lorem ipsum latin te
 ```
 
 ```javascript
-{{lipsum random 300}}
+{{lipsum "random" 300}}
 ```
 
 ## Parameters
